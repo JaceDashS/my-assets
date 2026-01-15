@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-01-10",
+  "generatedAt": "2026-01-14",
   "sets": {
     "apps": {
       "basePath": "static/apps/",
@@ -42,6 +42,12 @@
           { "type": "image", "file": "document/jlpt.jpg" },
           { "type": "image", "file": "document/jlpt_back_side.jpg" }
         ]
+      }
+    },
+    "data": {
+      "profileOverview": {
+        "basePath": "data/",
+        "file": "profile-overview.json"
       }
     }
   }
