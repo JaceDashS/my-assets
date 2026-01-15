@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "generatedAt": "2026-01-10",
+  "sets": {
+    "apps": {
+      "basePath": "static/apps/",
+      "items": [
+        { "id": 1, "file": "app-1.png" },
+        { "id": 2, "file": "app-2.png" },
+        { "id": 3, "file": "app-3.png" },
+        { "id": 4, "file": "app-4.png" }
+      ]
+    },
+    "homePhotos": {
+      "basePath": "static/home-photos/",
+      "items": [
+        { "id": 1, "variant": "large", "file": "home-large-1.png" },
+        { "id": 2, "variant": "large", "file": "home-large-2.png" },
+        { "id": 1, "variant": "small", "file": "home-small-1.png" },
+        { "id": 2, "variant": "small", "file": "home-small-2.png" },
+        { "id": 3, "variant": "small", "file": "home-small-3.png" },
+        { "id": 4, "variant": "small", "file": "home-small-4.png" }
+      ]
+    },
+    "certifications": {
+      "awsCertifiedCloudPractitioner": {
+        "basePath": "static/certifications/aws-certified-cloud-practitioner/",
+        "icon": {
+          "file": "icon/aws-ccp.png"
+        },
+        "documents": [
+          { "type": "pdf", "file": "document/aws-ccp.pdf" },
+          { "type": "image", "file": "document/aws-ccp.png" }
+        ]
+      },
+      "japaneseLanguageProficiencyTest": {
+        "basePath": "static/certifications/japanese-language-proficiency-test/",
+        "icon": {
+          "file": "icon/jlpt.png"
+        },
+        "documents": [
+          { "type": "image", "file": "document/jlpt.jpg" },
+          { "type": "image", "file": "document/jlpt_back_side.jpg" }
+        ]
+      }
+    }
+  }
+}
