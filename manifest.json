@@ -39,6 +39,7 @@
           "file": "icon/jlpt.png"
         },
         "documents": [
+          { "type": "pdf", "file": "document/jlpt.pdf" },
           { "type": "image", "file": "document/jlpt.jpg" },
           { "type": "image", "file": "document/jlpt_back_side.jpg" }
         ]
