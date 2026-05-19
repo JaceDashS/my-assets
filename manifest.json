@@ -32,17 +32,6 @@
           { "type": "pdf", "file": "document/aws-ccp.pdf" },
           { "type": "image", "file": "document/aws-ccp.png" }
         ]
-      },
-      "japaneseLanguageProficiencyTest": {
-        "basePath": "static/certifications/japanese-language-proficiency-test/",
-        "icon": {
-          "file": "icon/jlpt.png"
-        },
-        "documents": [
-          { "type": "pdf", "file": "document/jlpt.pdf" },
-          { "type": "image", "file": "document/jlpt.jpg" },
-          { "type": "image", "file": "document/jlpt_back_side.jpg" }
-        ]
       }
     },
     "data": {
