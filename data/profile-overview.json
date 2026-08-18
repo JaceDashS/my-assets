@@ -1,7 +1,7 @@
 {
   "en": {
     "name": "Jay Shin",
-    "description": "I hold a Bachelor of Science in Computer Science, with a specialization in Artificial Intelligence and Data Science.\n\nBeing fluent in English, Korean, and Japanese, I utilize technical documentation and developer communities from different language regions in parallel.\n\nOutside of tech, I enjoy staying active and expressing myself through music. I mainly play the guitar, have studied music theory, and composed several original pieces.",
+    "description": "I earned a Bachelor of Science in Computer Science in the United States, specializing in Artificial Intelligence and Data Science.\n\nI grew up around English, Korean, and Japanese, which came naturally to me over time, and that background led me to work in the U.S. before relocating to Japan, where I currently work as a software engineer.\n\nOutside of tech, I stay active by lifting weights, and express myself through guitar, drawing on some music theory, composing several original pieces along the way.",
     "links": {
       "composition": "original pieces",
       "guitar": "guitar"
@@ -9,7 +9,7 @@
   },
   "ko": {
     "name": "신정수",
-    "description": "저는 컴퓨터 과학 학사 학위를 취득했으며, 인공지능과 데이터 사이언스를 전문 트랙(specialization)으로 이수했습니다.\n\n영어, 한국어, 일본어에 능통하여 서로 다른 언어권의 기술 문서와 개발자 커뮤니티를 병행해 활용하고 있습니다.\n\n기술 외적으로는 활동적으로 지내고 음악을 통해 자기 표현을 즐기며, 주로 기타를 연주하고 음악 이론을 공부해 왔으며, 여러 곡의 자작곡을 작곡한 경험이 있습니다.",
+    "description": "저는 미국에서 컴퓨터 과학 학사 학위를 받았고,\n그 과정에서 인공지능과 데이터 사이언스를 전문 트랙으로 이수했습니다.\n\n어려서부터 영어·한국어·일본어를 접하며 자연스럽게 익혀왔고,\n이후 미국에서 근무하다 일본으로 이직해 현재 개발자로 일하고 있습니다.\n\n기술 외적으로는 헬스로 몸을 움직이고,\n기타와 음악 이론을 바탕으로 자기표현을 즐깁니다.\n그 과정에서 여러 곡의 자작곡을 만들기도 했습니다.",
     "links": {
       "composition": "자작곡",
       "guitar": "기타"
@@ -17,7 +17,7 @@
   },
   "ja": {
     "name": "シン・ジョンス",
-    "description": "私はコンピュータサイエンスの学士号を取得し、人工知能とデータサイエンスを専門トラック（specialization）として修了しました。\n\n英語・韓国語・日本語に堪能であるため、異なる言語圏の技術文書と開発者コミュニティを並行して活用しています。\n\n技術分野以外では、アクティブに過ごすことや音楽を通じた自己表現を楽しんでおり、主にギターを演奏し、音楽理論を学び、いくつかのオリジナル曲を作曲してきました。",
+    "description": "私はアメリカの大学でコンピュータサイエンスの学士号を取得し、\n人工知能とデータサイエンスを専門分野として学びました。\n\n幼い頃から英語・韓国語・日本語に触れて自然と身につけてきており、\nその背景もあってアメリカでの勤務を経て日本に移り、現在はITエンジニアとして働いています。\n\n技術以外では、筋トレで体を動かし、\nギターと音楽理論を活かして自己表現を楽しんでいます。\nその中でいくつかのオリジナル曲も作ってきました。",
     "links": {
       "composition": "オリジナル曲",
       "guitar": "ギター"
@@ -25,7 +25,7 @@
   },
   "zh": {
     "name": "申 貞秀",
-    "description": "我获得计算机科学学士学位，并完成了人工智能和数据科学方向的专门化专业轨道（specialization）。\n\n我精通英语、韩语和日语，因此能够并行利用不同语言区域的技术文档和开发者社区。\n\n在技术之外，我喜欢保持活跃，并通过音乐表达自己。我主要弹吉他，学习过音乐理论，并创作过多首原创作品。",
+    "description": "我在美国的大学获得了计算机科学学士学位，\n专业方向是人工智能和数据科学。\n\n我从小就接触英语、韩语和日语，自然而然地掌握了这三门语言，\n也正因如此，我先在美国工作，后转到日本发展，目前担任软件工程师。\n\n工作之外，我喜欢通过健身保持活跃，\n并借助吉他和乐理知识表达自我，\n期间还创作过多首原创作品。",
     "links": {
       "composition": "原创作品",
       "guitar": "吉他"
